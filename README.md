@@ -1,4 +1,4 @@
-# 101-Hours-Italian-Children-Spontaneous-Speech-Speech-Data
+# 101-Hours-Italian-Children-Spontaneous-Speech-Data
 
 ## Description
 The 101 Hours - Italian Child's Spontaneous Speech Data, manually screened and processed. Annotation contains transcription text, speaker identification, gender and other informantion. This dataset can be applied in speech recognition (acoustic model or language model training), caption generation, voice content moderation and other AI algorithm research.
