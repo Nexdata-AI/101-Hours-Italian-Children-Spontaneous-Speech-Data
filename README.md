@@ -3,7 +3,7 @@
 ## Description
 The 101 Hours - Italian Child's Spontaneous Speech Data, manually screened and processed. Annotation contains transcription text, speaker identification, gender and other informantion. This dataset can be applied in speech recognition (acoustic model or language model training), caption generation, voice content moderation and other AI algorithm research.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1300?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1300?source=Github
 
 
 # Specifications
